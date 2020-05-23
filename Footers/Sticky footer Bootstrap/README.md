@@ -1,0 +1,1 @@
+Sticky footer 3 Bootstrap megoldas
