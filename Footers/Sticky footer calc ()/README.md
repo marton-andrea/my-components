@@ -1,0 +1,1 @@
+Sticky footer 2 calc () megoldas
